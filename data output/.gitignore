@@ -1,0 +1,5 @@
+*.eng
+__pycache__/
+.vscode/launch.json
+splicer.py
+*.csv
